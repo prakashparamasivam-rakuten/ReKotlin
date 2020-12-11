@@ -264,3 +264,6 @@ Using this code formatter will help us maintain consistency in code style.
 - Many thanks to [Benjamin Encz](https://github.com/Ben-G) and other ReSwift contributors for building original [ReSwift](https://github.com/ReSwift/ReSwift) that we really enjoyed working with.
 - Also huge thanks to [Dan Abramov](https://github.com/gaearon) for building [Redux](https://github.com/reactjs/redux) - all ideas in here and many implementation details were provided by his library.
 
+## Additional Note
+
+This was an attempt to bring redux architecture parity between iOS and Android
